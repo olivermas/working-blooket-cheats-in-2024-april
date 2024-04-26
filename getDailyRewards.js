@@ -1,6 +1,6 @@
 /**
 * @license StewartPrivateLicense-2.0.1
-* Copyright (c) 05Konz 2023
+* Copyright (c) olivermas 2023
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
 * You may not copy, modify, steal, skid, or recreate any of the code inside this file.
